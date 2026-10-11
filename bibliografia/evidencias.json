@@ -1,0 +1,2238 @@
+{
+  "consultedOn": "2026-10-10",
+  "entries": [
+    {
+      "id": "pdc-episiotomia",
+      "editorialSources": [
+        {
+          "fields": [
+            "year"
+          ],
+          "url": "https://doi.org/10.18597/rcog.4216",
+          "location": "citation_publication_date / citation_date",
+          "value": "2024/07/09"
+        },
+        {
+          "fields": [
+            "title",
+            "authors",
+            "journal",
+            "volume",
+            "issue",
+            "doiIdentifier"
+          ],
+          "url": "https://doi.org/10.18597/rcog.4216",
+          "location": "editorial article and citation_* metadata"
+        }
+      ],
+      "response": {
+        "url": "https://doi.org/10.18597/rcog.4216",
+        "consultedOn": "2026-10-10",
+        "kind": "editorial HTML",
+        "status": 200,
+        "finalUrl": "https://revista.fecolsog.org/index.php/rcog/article/view/4216",
+        "sha256": "df9f58c2ae085ebb194609eac1382f395429385dabde07f6981f06556f28ffd0"
+      },
+      "rawMetadata": {
+        "citation_journal_title": [
+          "Revista Colombiana de Obstetricia y Ginecología"
+        ],
+        "citation_journal_abbrev": [
+          "Rev. colomb. obstet. ginecol."
+        ],
+        "citation_issn": [
+          "2463-0225"
+        ],
+        "citation_author": [
+          "Mercy Dolores Rosero-Quintana",
+          "Santiago Vasco-Morales",
+          "Karla Benalcázar-Sanmartín",
+          "Liseth Paola Salazar-Congacha",
+          "Paola Cristina Toapanta-Pinta"
+        ],
+        "citation_title": [
+          "Frecuencia de la práctica de la episiotomía en una institución en Quito, Ecuador, 2009-2022"
+        ],
+        "citation_language": [
+          "es"
+        ],
+        "citation_date": [
+          "2024/07/09"
+        ],
+        "citation_volume": [
+          "75"
+        ],
+        "citation_issue": [
+          "2"
+        ],
+        "citation_doi": [
+          "10.18597/rcog.4216"
+        ],
+        "citation_abstract_html_url": [
+          "https://revista.fecolsog.org/index.php/rcog/article/view/4216"
+        ],
+        "citation_keywords": [
+          "Episiotomía",
+          "Parto normal",
+          "Herida quirúrgica",
+          "Salud materna",
+          "Prevalencia",
+          "Ginecología",
+          "Obstetricia"
+        ],
+        "citation_pdf_url": [
+          "https://revista.fecolsog.org/index.php/rcog/article/download/4216/3990"
+        ]
+      },
+      "verifiedFields": {
+        "title": "Frecuencia de la práctica de la episiotomía en una institución en Quito, Ecuador, 2009-2022",
+        "authors": "Mercy Dolores Rosero-Quintana, Santiago Vasco-Morales, Karla Benalcázar-Sanmartín, Liseth Paola Salazar-Congacha, Paola Cristina Toapanta-Pinta",
+        "journal": "Revista Colombiana de Obstetricia y Ginecología",
+        "year": 2024,
+        "volume": "75",
+        "issue": "2",
+        "pages": null,
+        "articleNumber": null,
+        "doiIdentifier": "10.18597/rcog.4216",
+        "source": "https://doi.org/10.18597/rcog.4216",
+        "pdf": null
+      },
+      "changes": {
+        "year": {
+          "before": null,
+          "after": 2024
+        },
+        "volume": {
+          "before": null,
+          "after": "75"
+        },
+        "issue": {
+          "before": null,
+          "after": "2"
+        },
+        "keywords": {
+          "before": null,
+          "after": [
+            "Episiotomía",
+            "Parto normal",
+            "Herida quirúrgica",
+            "Salud materna",
+            "Prevalencia",
+            "Ginecología",
+            "Obstetricia"
+          ]
+        },
+        "authors": {
+          "before": "Mercy Rosero-Quintana, Santiago Vasco-Morales, Karla Benalcázar-Sanmartín, Liseth Salazar-Congacha, Paola Toapanta-Pinta",
+          "after": "Mercy Dolores Rosero-Quintana, Santiago Vasco-Morales, Karla Benalcázar-Sanmartín, Liseth Paola Salazar-Congacha, Paola Cristina Toapanta-Pinta"
+        }
+      },
+      "pending": []
+    },
+    {
+      "id": "pdc-ciberaprendizaje",
+      "editorialSources": [
+        {
+          "fields": [
+            "year"
+          ],
+          "url": "https://www.elsevier.es/es-revista-educacion-medica-71-articulo-evolucion-opiniones-estudiantiles-sobre-el-S1575181323000505",
+          "location": "citation_publication_date / citation_date",
+          "value": "2023/09/01"
+        },
+        {
+          "fields": [
+            "title",
+            "authors",
+            "journal",
+            "volume",
+            "issue",
+            "doiIdentifier"
+          ],
+          "url": "https://www.elsevier.es/es-revista-educacion-medica-71-articulo-evolucion-opiniones-estudiantiles-sobre-el-S1575181323000505",
+          "location": "editorial article and citation_* metadata"
+        },
+        {
+          "fields": [
+            "year",
+            "title",
+            "authors",
+            "doiIdentifier"
+          ],
+          "url": "https://www.elsevier.es/es-revista-educacion-medica-71-pdf-download-S1575181323000505",
+          "location": "PDF editorial, página 1"
+        }
+      ],
+      "response": {
+        "url": "https://www.elsevier.es/es-revista-educacion-medica-71-articulo-evolucion-opiniones-estudiantiles-sobre-el-S1575181323000505",
+        "consultedOn": "2026-10-10",
+        "kind": "editorial HTML",
+        "status": 200,
+        "finalUrl": "https://www.elsevier.es/es-revista-educacion-medica-71-articulo-evolucion-opiniones-estudiantiles-sobre-el-S1575181323000505",
+        "sha256": "8ff47db07d62665ae6815e0f4d1e199b0195d12be7bb242d282db927ea4e4fa6"
+      },
+      "rawMetadata": {
+        "citation_journal_title": [
+          "Educación Médica"
+        ],
+        "citation_journal_abbrev": [
+          "EDUMED"
+        ],
+        "citation_publisher": [
+          "Elsevier"
+        ],
+        "citation_author": [
+          "Toapanta-Pinta, Paola",
+          "Céspedes-Granda, Sara",
+          "Rosero-Quintana, Mercy",
+          "Vasco-Morales, Santiago"
+        ],
+        "citation_title": [
+          "Evolución de las opiniones estudiantiles sobre el ciberaprendizaje en la carrera de obstetricia"
+        ],
+        "citation_publication_date": [
+          "2023/09/01"
+        ],
+        "citation_volume": [
+          "24"
+        ],
+        "citation_issue": [
+          "5"
+        ],
+        "citation_doi": [
+          "10.1016/j.edumed.2023.100840"
+        ],
+        "citation_fulltext_html_url": [
+          "https://www.elsevier.es/es-revista-educacion-medica-71-articulo-evolucion-opiniones-estudiantiles-sobre-el-S1575181323000505"
+        ],
+        "citation_pdf_url": [
+          "https://www.elsevier.es/es-revista-educacion-medica-71-pdf-S1575181323000505"
+        ],
+        "citation_issn": [
+          "1575-1813"
+        ],
+        "citation_language": [
+          "es"
+        ],
+        "citation_keywords": [
+          "COVID-19; Educación a distancia; Preceptoría; Teleducación; Teorema de Bayes"
+        ]
+      },
+      "verifiedFields": {
+        "title": "Evolución de las opiniones estudiantiles sobre el ciberaprendizaje en la carrera de obstetricia",
+        "authors": "Paola Toapanta-Pinta, Sara Céspedes-Granda, Mercy Rosero-Quintana, Santiago Vasco-Morales",
+        "journal": "Educación Médica",
+        "year": 2023,
+        "volume": "24",
+        "issue": "5",
+        "pages": null,
+        "articleNumber": "100840",
+        "doiIdentifier": "10.1016/j.edumed.2023.100840",
+        "source": "https://doi.org/10.1016/j.edumed.2023.100840",
+        "pdf": "https://www.elsevier.es/es-revista-educacion-medica-71-pdf-download-S1575181323000505"
+      },
+      "changes": {
+        "year": {
+          "before": null,
+          "after": 2023
+        },
+        "volume": {
+          "before": null,
+          "after": "24"
+        },
+        "issue": {
+          "before": null,
+          "after": "5"
+        },
+        "keywords": {
+          "before": null,
+          "after": [
+            "COVID-19; Educación a distancia; Preceptoría; Teleducación; Teorema de Bayes"
+          ]
+        },
+        "articleNumber": {
+          "before": null,
+          "after": "100840"
+        },
+        "pdf": {
+          "before": null,
+          "after": "https://www.elsevier.es/es-revista-educacion-medica-71-pdf-download-S1575181323000505"
+        }
+      },
+      "pending": []
+    },
+    {
+      "id": "pdc-dietary-patterns",
+      "editorialSources": [
+        {
+          "fields": [
+            "year"
+          ],
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10892012/",
+          "location": "citation_publication_date / citation_date",
+          "value": "2024 Feb 7"
+        },
+        {
+          "fields": [
+            "title",
+            "authors",
+            "journal",
+            "volume",
+            "issue",
+            "doiIdentifier"
+          ],
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10892012/",
+          "location": "editorial article and citation_* metadata"
+        }
+      ],
+      "response": {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10892012/",
+        "consultedOn": "2026-10-10",
+        "kind": "publisher version deposited in PMC",
+        "status": 200,
+        "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10892012/",
+        "sha256": "2c4beff62477346efc671100c50742eb7b4df0bfd5ed328f119072b8af0a8462"
+      },
+      "rawMetadata": {
+        "citation_journal_title": [
+          "Nutrients"
+        ],
+        "citation_title": [
+          "Dietary Patterns and Factors Associated with Food Affinity in Pregnant Women from Quito, Ecuador"
+        ],
+        "citation_author": [
+          "Paola Toapanta-Pinta",
+          "Santiago Vasco-Morales",
+          "Sara Céspedes-Granda",
+          "Daniela Saes Sartorelli",
+          "Elaine Christine Dantas Moisés"
+        ],
+        "citation_publication_date": [
+          "2024 Feb 7"
+        ],
+        "citation_volume": [
+          "16"
+        ],
+        "citation_issue": [
+          "4"
+        ],
+        "citation_firstpage": [
+          "475"
+        ],
+        "citation_doi": [
+          "10.3390/nu16040475"
+        ],
+        "citation_pmid": [
+          "38398800"
+        ],
+        "citation_abstract_html_url": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10892012/"
+        ],
+        "citation_fulltext_html_url": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10892012/"
+        ],
+        "citation_pdf_url": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10892012/pdf/nutrients-16-00475.pdf"
+        ]
+      },
+      "verifiedFields": {
+        "title": "Dietary Patterns and Factors Associated with Food Affinity in Pregnant Women from Quito, Ecuador",
+        "authors": "Paola Toapanta-Pinta, Santiago Vasco-Morales, Sara Céspedes-Granda, Daniela Saes Sartorelli, Elaine Christine Dantas Moisés",
+        "journal": "Nutrients",
+        "year": 2024,
+        "volume": "16",
+        "issue": "4",
+        "pages": null,
+        "articleNumber": "475",
+        "doiIdentifier": "10.3390/nu16040475",
+        "source": "https://doi.org/10.3390/nu16040475",
+        "pdf": null
+      },
+      "changes": {
+        "year": {
+          "before": null,
+          "after": 2024
+        },
+        "volume": {
+          "before": null,
+          "after": "16"
+        },
+        "issue": {
+          "before": null,
+          "after": "4"
+        },
+        "articleNumber": {
+          "before": null,
+          "after": "475"
+        },
+        "authors": {
+          "before": "Toapanta-Pinta P., Vasco-Morales S., Céspedes-Granda S., Sartorelli D.S., Moisés E.C.D",
+          "after": "Paola Toapanta-Pinta, Santiago Vasco-Morales, Sara Céspedes-Granda, Daniela Saes Sartorelli, Elaine Christine Dantas Moisés"
+        },
+        "metadataNote": {
+          "before": null,
+          "after": "Datos contrastados con la versión editorial depositada en PMC. El acceso directo a MDPI no pudo comprobarse por bloqueo automatizado."
+        }
+      },
+      "pending": [
+        "Acceso directo al sitio MDPI bloqueado; versión editorial consultada en PMC"
+      ]
+    },
+    {
+      "id": "pdc-metodo-canguro",
+      "editorialSources": [
+        {
+          "fields": [
+            "year"
+          ],
+          "url": "https://rgsa.openaccesspublications.org/rgsa/article/view/7165",
+          "location": "citation_publication_date / citation_date",
+          "value": "2024/06/13"
+        },
+        {
+          "fields": [
+            "title",
+            "authors",
+            "journal",
+            "volume",
+            "issue",
+            "doiIdentifier"
+          ],
+          "url": "https://rgsa.openaccesspublications.org/rgsa/article/view/7165",
+          "location": "editorial article and citation_* metadata"
+        },
+        {
+          "fields": [
+            "title",
+            "authors",
+            "doiIdentifier",
+            "year"
+          ],
+          "url": "https://rgsa.openaccesspublications.org/rgsa/article/download/7165/3154",
+          "location": "versión española editorial, portada y pie de página"
+        }
+      ],
+      "response": {
+        "url": "https://rgsa.openaccesspublications.org/rgsa/article/view/7165",
+        "consultedOn": "2026-10-10",
+        "kind": "editorial HTML",
+        "status": 200,
+        "finalUrl": "https://rgsa.openaccesspublications.org/rgsa/article/view/7165",
+        "sha256": "27728f9a2a85331a849cc4f3157132e29bea07964856aa3a12b07806293ef5fe"
+      },
+      "rawMetadata": {
+        "citation_journal_title": [
+          "Revista de Gestão Social e Ambiental"
+        ],
+        "citation_journal_abbrev": [
+          "RGSA"
+        ],
+        "citation_issn": [
+          "1981-982X"
+        ],
+        "citation_author": [
+          "Santiago Vasco-Morales",
+          "Andrea Quinde-Arce",
+          "Fabiola Males-Jácome",
+          "Catalina Verdesoto-Jácome",
+          "Catalina Almeida-Torres",
+          "Paola Toapanta-Pinta"
+        ],
+        "citation_title": [
+          "Integrative Review: Benefits, Challenges, and Perspectives Of Kangaroo Care in Neonatal Care"
+        ],
+        "citation_language": [
+          "es"
+        ],
+        "citation_date": [
+          "2024/06/13"
+        ],
+        "citation_volume": [
+          "18"
+        ],
+        "citation_issue": [
+          "8"
+        ],
+        "citation_firstpage": [
+          "e07165"
+        ],
+        "citation_lastpage": [
+          "e07165"
+        ],
+        "citation_doi": [
+          "10.24857/rgsa.v18n8-119"
+        ],
+        "citation_abstract_html_url": [
+          "https://rgsa.openaccesspublications.org/rgsa/article/view/7165"
+        ],
+        "citation_pdf_url": [
+          "https://rgsa.openaccesspublications.org/rgsa/article/download/7165/3153",
+          "https://rgsa.openaccesspublications.org/rgsa/article/download/7165/3154"
+        ]
+      },
+      "verifiedFields": {
+        "title": "Revisión integrativa: beneficios, desafíos y perspectivas del método canguro en el cuidado neonatal",
+        "authors": "Santiago Vasco-Morales, Andrea Quinde-Arce, Fabiola Males-Jácome, Catalina Verdesoto-Jácome, Catalina Almeida-Torres, Paola Toapanta-Pinta",
+        "journal": "Revista de Gestão Social e Ambiental",
+        "year": 2024,
+        "volume": "18",
+        "issue": "8",
+        "pages": null,
+        "articleNumber": "e07165",
+        "doiIdentifier": "10.24857/rgsa.v18n8-119",
+        "source": "https://rgsa.openaccesspublications.org/rgsa/article/view/7165",
+        "pdf": "https://rgsa.openaccesspublications.org/rgsa/article/download/7165/3154"
+      },
+      "changes": {
+        "year": {
+          "before": null,
+          "after": 2024
+        },
+        "volume": {
+          "before": null,
+          "after": "18"
+        },
+        "issue": {
+          "before": null,
+          "after": "8"
+        },
+        "doiIdentifier": {
+          "before": null,
+          "after": "10.24857/rgsa.v18n8-119"
+        },
+        "articleNumber": {
+          "before": null,
+          "after": "e07165"
+        },
+        "pdf": {
+          "before": null,
+          "after": "https://rgsa.openaccesspublications.org/rgsa/article/download/7165/3154"
+        }
+      },
+      "pending": []
+    },
+    {
+      "id": "pdc-tesis-a-articulos",
+      "editorialSources": [
+        {
+          "fields": [
+            "year"
+          ],
+          "url": "https://rgsa.openaccesspublications.org/rgsa/article/view/9224",
+          "location": "citation_publication_date / citation_date",
+          "value": "2024/10/09"
+        },
+        {
+          "fields": [
+            "title",
+            "authors",
+            "journal",
+            "volume",
+            "issue",
+            "doiIdentifier"
+          ],
+          "url": "https://rgsa.openaccesspublications.org/rgsa/article/view/9224",
+          "location": "editorial article and citation_* metadata"
+        },
+        {
+          "fields": [
+            "title",
+            "authors",
+            "doiIdentifier",
+            "year"
+          ],
+          "url": "https://rgsa.openaccesspublications.org/rgsa/article/download/9224/4351",
+          "location": "versión española editorial, portada y pie de página"
+        },
+        {
+          "fields": [
+            "enfoque"
+          ],
+          "url": "https://rgsa.openaccesspublications.org/rgsa/article/download/9224/4351",
+          "location": "Métodos y criterios de inclusión, pp. 3–5; se retiran 2018–2023 y 342 tesis"
+        }
+      ],
+      "response": {
+        "url": "https://rgsa.openaccesspublications.org/rgsa/article/view/9224",
+        "consultedOn": "2026-10-10",
+        "kind": "editorial HTML",
+        "status": 200,
+        "finalUrl": "https://rgsa.openaccesspublications.org/rgsa/article/view/9224",
+        "sha256": "23dd4eeb66fef1f7dfdb2a5b243265871025af0f11bfa12b45a5c576f95d1e96"
+      },
+      "rawMetadata": {
+        "citation_journal_title": [
+          "Revista de Gestão Social e Ambiental"
+        ],
+        "citation_journal_abbrev": [
+          "RGSA"
+        ],
+        "citation_issn": [
+          "1981-982X"
+        ],
+        "citation_author": [
+          "Paola Toapanta-Pinta",
+          "Veronica Oliva-Velasco",
+          "Bianca Gavilanes-Vallejo",
+          "Daniela Caicedo-Gallardo",
+          "Santiago Vasco Morales"
+        ],
+        "citation_title": [
+          "From Thesis to Scientific Articles: Publication of Neonatal Research in Ecuador"
+        ],
+        "citation_language": [
+          "en"
+        ],
+        "citation_date": [
+          "2024/10/09"
+        ],
+        "citation_volume": [
+          "18"
+        ],
+        "citation_issue": [
+          "10"
+        ],
+        "citation_firstpage": [
+          "e09224"
+        ],
+        "citation_lastpage": [
+          "e09224"
+        ],
+        "citation_doi": [
+          "10.24857/rgsa.v18n10-185"
+        ],
+        "citation_abstract_html_url": [
+          "https://rgsa.openaccesspublications.org/rgsa/article/view/9224"
+        ],
+        "citation_pdf_url": [
+          "https://rgsa.openaccesspublications.org/rgsa/article/download/9224/4350",
+          "https://rgsa.openaccesspublications.org/rgsa/article/download/9224/4351"
+        ]
+      },
+      "verifiedFields": {
+        "title": "De tesis a artículos científicos: publicación de investigaciones neonatales en Ecuador",
+        "authors": "Paola Toapanta-Pinta, Verónica Oliva-Velasco, Bianca Gavilanes-Vallejo, Daniela Caicedo-Gallardo, Santiago Vasco-Morales",
+        "journal": "Revista de Gestão Social e Ambiental",
+        "year": 2024,
+        "volume": "18",
+        "issue": "10",
+        "pages": null,
+        "articleNumber": "e09224",
+        "doiIdentifier": "10.24857/rgsa.v18n10-185",
+        "source": "https://rgsa.openaccesspublications.org/rgsa/article/view/9224",
+        "pdf": "https://rgsa.openaccesspublications.org/rgsa/article/download/9224/4351"
+      },
+      "changes": {
+        "year": {
+          "before": null,
+          "after": 2024
+        },
+        "volume": {
+          "before": null,
+          "after": "18"
+        },
+        "issue": {
+          "before": null,
+          "after": "10"
+        },
+        "doiIdentifier": {
+          "before": null,
+          "after": "10.24857/rgsa.v18n10-185"
+        },
+        "articleNumber": {
+          "before": null,
+          "after": "e09224"
+        },
+        "pdf": {
+          "before": null,
+          "after": "https://rgsa.openaccesspublications.org/rgsa/article/download/9224/4351"
+        },
+        "enfoque": {
+          "before": "Estudio bibliométrico que analiza la conversión de tesis en neonatología en artículos científicos publicados en Ecuador durante 2018-2023. Se revisaron 342 tesis.",
+          "after": "Estudio bibliométrico sobre tesis y artículos científicos de neonatología con filiación ecuatoriana. Los criterios de inclusión delimitan el periodo entre enero de 2003 y diciembre de 2022; se compararon títulos, resúmenes y autorías para identificar coincidencias."
+        }
+      },
+      "pending": []
+    },
+    {
+      "id": "pdc-derechos-humanos-ciencia",
+      "editorialSources": [
+        {
+          "fields": [
+            "year"
+          ],
+          "url": "https://rgsa.openaccesspublications.org/rgsa/article/view/8300",
+          "location": "citation_publication_date / citation_date",
+          "value": "2024/09/19"
+        },
+        {
+          "fields": [
+            "title",
+            "authors",
+            "journal",
+            "volume",
+            "issue",
+            "doiIdentifier"
+          ],
+          "url": "https://rgsa.openaccesspublications.org/rgsa/article/view/8300",
+          "location": "editorial article and citation_* metadata"
+        },
+        {
+          "fields": [
+            "title",
+            "authors",
+            "doiIdentifier",
+            "year"
+          ],
+          "url": "https://rgsa.openaccesspublications.org/rgsa/article/download/8300/4168",
+          "location": "versión española editorial, portada y pie de página"
+        },
+        {
+          "fields": [
+            "enfoque"
+          ],
+          "url": "https://rgsa.openaccesspublications.org/rgsa/article/download/8300/4168",
+          "location": "Resumen, p. 1, sección Método; se retira la atribución de 1.456 evaluaciones"
+        }
+      ],
+      "response": {
+        "url": "https://rgsa.openaccesspublications.org/rgsa/article/view/8300",
+        "consultedOn": "2026-10-10",
+        "kind": "editorial HTML",
+        "status": 200,
+        "finalUrl": "https://rgsa.openaccesspublications.org/rgsa/article/view/8300",
+        "sha256": "22a083b224529f2dd580bcbace2a4655b54929211c2241e509c074d886848410"
+      },
+      "rawMetadata": {
+        "citation_journal_title": [
+          "Revista de Gestão Social e Ambiental"
+        ],
+        "citation_journal_abbrev": [
+          "RGSA"
+        ],
+        "citation_issn": [
+          "1981-982X"
+        ],
+        "citation_author": [
+          "Santiago Vasco-Morales",
+          "Cristhian Vasco-Toapanta",
+          "Alisson Guanoluisa-Vasco",
+          "Gabriel Vasco-Toapanta",
+          "Paola Toapanta-Pinta"
+        ],
+        "citation_title": [
+          "Human Rights in Science: Observations From Ethics Committees on Medical Research Protocols"
+        ],
+        "citation_language": [
+          "es"
+        ],
+        "citation_date": [
+          "2024/09/19"
+        ],
+        "citation_volume": [
+          "18"
+        ],
+        "citation_issue": [
+          "10"
+        ],
+        "citation_firstpage": [
+          "e08300"
+        ],
+        "citation_lastpage": [
+          "e08300"
+        ],
+        "citation_doi": [
+          "10.24857/rgsa.v18n10-074"
+        ],
+        "citation_abstract_html_url": [
+          "https://rgsa.openaccesspublications.org/rgsa/article/view/8300"
+        ],
+        "citation_pdf_url": [
+          "https://rgsa.openaccesspublications.org/rgsa/article/download/8300/4167",
+          "https://rgsa.openaccesspublications.org/rgsa/article/download/8300/4168"
+        ]
+      },
+      "verifiedFields": {
+        "title": "Derechos humanos en la ciencia: observaciones de los comités de ética a protocolos de investigación médica",
+        "authors": "Santiago Vasco-Morales, Cristhian Vasco-Toapanta, Alisson Guanoluisa-Vasco, Gabriel Vasco-Toapanta, Paola Toapanta-Pinta",
+        "journal": "Revista de Gestão Social e Ambiental",
+        "year": 2024,
+        "volume": "18",
+        "issue": "10",
+        "pages": null,
+        "articleNumber": "e08300",
+        "doiIdentifier": "10.24857/rgsa.v18n10-074",
+        "source": "https://rgsa.openaccesspublications.org/rgsa/article/view/8300",
+        "pdf": "https://rgsa.openaccesspublications.org/rgsa/article/download/8300/4168"
+      },
+      "changes": {
+        "year": {
+          "before": null,
+          "after": 2024
+        },
+        "volume": {
+          "before": null,
+          "after": "18"
+        },
+        "issue": {
+          "before": null,
+          "after": "10"
+        },
+        "doiIdentifier": {
+          "before": null,
+          "after": "10.24857/rgsa.v18n10-074"
+        },
+        "articleNumber": {
+          "before": null,
+          "after": "e08300"
+        },
+        "pdf": {
+          "before": null,
+          "after": "https://rgsa.openaccesspublications.org/rgsa/article/download/8300/4168"
+        },
+        "enfoque": {
+          "before": "Este estudio analiza las observaciones más frecuentes realizadas por comités de ética (CEI) a protocolos de investigación médica en Ecuador durante 2019-2023. Se revisaron 1,456 evaluaciones.",
+          "after": "Revisión de publicaciones sobre observaciones de los comités de ética a protocolos de investigación. Se realizaron búsquedas en PubMed, Scopus y Google Académico hasta el 30 de noviembre de 2023 y un metaanálisis de proporción única."
+        }
+      },
+      "pending": []
+    },
+    {
+      "id": "pdc-pis-proyecto",
+      "editorialSources": [
+        {
+          "fields": [
+            "year"
+          ],
+          "url": "https://www.elsevier.es/es-revista-educacion-medica-71-articulo-percepcion-estudiantes-sobre-el-proyecto-S1575181319301974",
+          "location": "citation_publication_date / citation_date",
+          "value": "2021/09/01"
+        },
+        {
+          "fields": [
+            "title",
+            "authors",
+            "journal",
+            "volume",
+            "issue",
+            "doiIdentifier"
+          ],
+          "url": "https://www.elsevier.es/es-revista-educacion-medica-71-articulo-percepcion-estudiantes-sobre-el-proyecto-S1575181319301974",
+          "location": "editorial article and citation_* metadata"
+        },
+        {
+          "fields": [
+            "year",
+            "pages",
+            "onlineDate",
+            "title",
+            "authors",
+            "doiIdentifier"
+          ],
+          "url": "https://www.elsevier.es/es-revista-educacion-medica-71-pdf-download-S1575181319301974",
+          "location": "PDF editorial, página 1; año del volumen 2021, publicación en línea 23-12-2019"
+        }
+      ],
+      "response": {
+        "url": "https://www.elsevier.es/es-revista-educacion-medica-71-articulo-percepcion-estudiantes-sobre-el-proyecto-S1575181319301974",
+        "consultedOn": "2026-10-10",
+        "kind": "editorial HTML",
+        "status": 200,
+        "finalUrl": "https://www.elsevier.es/es-revista-educacion-medica-71-articulo-percepcion-estudiantes-sobre-el-proyecto-S1575181319301974",
+        "sha256": "7fd80217307cbe6cc2cd54891694d61b03cb57c1bbbaa53d0c16a78496122826"
+      },
+      "rawMetadata": {
+        "citation_journal_title": [
+          "Educación Médica"
+        ],
+        "citation_journal_abbrev": [
+          "EDUMED"
+        ],
+        "citation_publisher": [
+          "Elsevier"
+        ],
+        "citation_author": [
+          "Toapanta-Pinta, Paola",
+          "Rosero-Quintana, Mercy",
+          "Salinas-Salinas, Mariana",
+          "Cruz-Cevallos, Mayra",
+          "Vasco-Morales, Santiago"
+        ],
+        "citation_title": [
+          "Percepción de los estudiantes sobre el proyecto integrador de saberes: análisis métricos versus ordinales"
+        ],
+        "citation_publication_date": [
+          "2021/09/01"
+        ],
+        "citation_volume": [
+          "22"
+        ],
+        "citation_firstpage": [
+          "358"
+        ],
+        "citation_lastpage": [
+          "363"
+        ],
+        "citation_doi": [
+          "10.1016/j.edumed.2019.10.015"
+        ],
+        "citation_fulltext_html_url": [
+          "https://www.elsevier.es/es-revista-educacion-medica-71-articulo-percepcion-estudiantes-sobre-el-proyecto-S1575181319301974"
+        ],
+        "citation_pdf_url": [
+          "https://www.elsevier.es/es-revista-educacion-medica-71-pdf-S1575181319301974"
+        ],
+        "citation_issn": [
+          "1575-1813"
+        ],
+        "citation_language": [
+          "es"
+        ],
+        "citation_keywords": [
+          "Análisis bayesiano; Likert; Ordenado-probit"
+        ]
+      },
+      "verifiedFields": {
+        "title": "Percepción de los estudiantes sobre el proyecto integrador de saberes: análisis métricos versus ordinales",
+        "authors": "Paola Toapanta-Pinta, Mercy Rosero-Quintana, Mariana Salinas-Salinas, Mayra Cruz-Cevallos, Santiago Vasco-Morales",
+        "journal": "Educación Médica",
+        "year": 2021,
+        "volume": "22",
+        "issue": "Supl. 5",
+        "pages": "S358–S363",
+        "articleNumber": null,
+        "doiIdentifier": "10.1016/j.edumed.2019.10.015",
+        "source": "https://www.sciencedirect.com/science/article/pii/S1575181319301974",
+        "pdf": "https://www.elsevier.es/es-revista-educacion-medica-71-pdf-download-S1575181319301974"
+      },
+      "changes": {
+        "year": {
+          "before": null,
+          "after": 2021
+        },
+        "volume": {
+          "before": null,
+          "after": "22"
+        },
+        "doiIdentifier": {
+          "before": null,
+          "after": "10.1016/j.edumed.2019.10.015"
+        },
+        "keywords": {
+          "before": null,
+          "after": [
+            "Análisis bayesiano; Likert; Ordenado-probit"
+          ]
+        },
+        "pages": {
+          "before": null,
+          "after": "S358–S363"
+        },
+        "issue": {
+          "before": null,
+          "after": "Supl. 5"
+        },
+        "pdf": {
+          "before": null,
+          "after": "https://www.elsevier.es/es-revista-educacion-medica-71-pdf-download-S1575181319301974"
+        },
+        "onlineDate": {
+          "before": null,
+          "after": "2019-12-23"
+        }
+      },
+      "pending": []
+    },
+    {
+      "id": "pdc-prematuros-ecuador",
+      "editorialSources": [
+        {
+          "fields": [
+            "year"
+          ],
+          "url": "https://revistafecim.org/index.php/tejom/article/view/99",
+          "location": "citation_publication_date / citation_date",
+          "value": "2022/06/15"
+        },
+        {
+          "fields": [
+            "title",
+            "authors",
+            "journal",
+            "volume",
+            "issue",
+            "doiIdentifier"
+          ],
+          "url": "https://revistafecim.org/index.php/tejom/article/view/99",
+          "location": "editorial article and citation_* metadata"
+        },
+        {
+          "fields": [
+            "title",
+            "authors",
+            "enfoque",
+            "importancia",
+            "printedYear"
+          ],
+          "url": "https://revistafecim.org/index.php/tejom/article/download/99/70",
+          "location": "PDF editorial, pp. 1–3; resumen, firmas y criterios de inclusión. La ficha HTML resuelve el año de publicación."
+        }
+      ],
+      "response": {
+        "url": "https://revistafecim.org/index.php/tejom/article/view/99",
+        "consultedOn": "2026-10-10",
+        "kind": "editorial HTML",
+        "status": 200,
+        "finalUrl": "https://revistafecim.org/index.php/tejom/article/view/99",
+        "sha256": "cb99c87e42191061fc9675e0d89bf74f11560dcd5f9962cfd7cc5fb7bedf2b9e"
+      },
+      "rawMetadata": {
+        "citation_journal_title": [
+          "The Ecuador Journal of Medicine"
+        ],
+        "citation_journal_abbrev": [
+          "TEJOM"
+        ],
+        "citation_issn": [
+          "2737-6486"
+        ],
+        "citation_author": [
+          "Nathaly AlexandraA Ortega Barrionuevo",
+          "Santiago Vasco"
+        ],
+        "citation_title": [
+          "Sobrevida y principales causas de morbilidad y mortalidad en prematuros en Ecuador."
+        ],
+        "citation_language": [
+          "es"
+        ],
+        "citation_date": [
+          "2022/06/15"
+        ],
+        "citation_volume": [
+          "2"
+        ],
+        "citation_issue": [
+          "Esp"
+        ],
+        "citation_firstpage": [
+          "1"
+        ],
+        "citation_lastpage": [
+          "13"
+        ],
+        "citation_doi": [
+          "10.46721/tejom-vol2issEsp-2022-1-13"
+        ],
+        "citation_abstract_html_url": [
+          "https://revistafecim.org/index.php/tejom/article/view/99"
+        ],
+        "citation_keywords": [
+          "Morbilidad",
+          "Mortalidad",
+          "Recién nacido",
+          "Neonato",
+          "Prematuro",
+          "Pretérmino"
+        ],
+        "citation_pdf_url": [
+          "https://revistafecim.org/index.php/tejom/article/download/99/70"
+        ]
+      },
+      "verifiedFields": {
+        "title": "Sobrevida y principales causas de morbilidad y mortalidad en prematuros en Ecuador",
+        "authors": "Nathaly Alexandra Ortega Barrionuevo, Santiago Vasco",
+        "journal": "The Ecuador Journal of Medicine",
+        "year": 2022,
+        "volume": "2",
+        "issue": "Esp",
+        "pages": "1–13",
+        "articleNumber": null,
+        "doiIdentifier": "10.46721/tejom-vol2issEsp-2022-1-13",
+        "source": "https://doi.org/10.46721/tejom-vol2issEsp-2022-1-13",
+        "pdf": "https://revistafecim.org/index.php/tejom/article/download/99/70"
+      },
+      "changes": {
+        "year": {
+          "before": null,
+          "after": 2022
+        },
+        "volume": {
+          "before": null,
+          "after": "2"
+        },
+        "issue": {
+          "before": null,
+          "after": "Esp"
+        },
+        "keywords": {
+          "before": null,
+          "after": [
+            "Morbilidad",
+            "Mortalidad",
+            "Recién nacido",
+            "Neonato",
+            "Prematuro",
+            "Pretérmino"
+          ]
+        },
+        "journal": {
+          "before": "The Ecuador Journal of Medicine. Pediatría",
+          "after": "The Ecuador Journal of Medicine"
+        },
+        "pages": {
+          "before": null,
+          "after": "1–13"
+        },
+        "authors": {
+          "before": "Nathaly Alexandra Ortega Barrionuevo, Santiago Vasco-Morales",
+          "after": "Nathaly Alexandra Ortega Barrionuevo, Santiago Vasco"
+        },
+        "authorAliases": {
+          "before": null,
+          "after": [
+            "Santiago Vasco-Morales"
+          ]
+        },
+        "pdf": {
+          "before": null,
+          "after": "https://revistafecim.org/index.php/tejom/article/download/99/70"
+        },
+        "printedYear": {
+          "before": null,
+          "after": 2021
+        },
+        "enfoque": {
+          "before": "Revisión sistemática que analiza la sobrevida y principales causas de morbilidad y mortalidad en 2,156 prematuros nacidos en hospitales de referencia de Ecuador entre 2020-2023.",
+          "after": "Metaanálisis con abordaje cualitativo y cuantitativo de estudios sobre prematuros en Ecuador publicados entre 2015 y 2020. Se buscaron trabajos en repositorios y literatura gris; se evaluó su calidad y se analizaron proporciones y heterogeneidad."
+        },
+        "importancia": {
+          "before": "La prematuridad es la principal causa de mortalidad neonatal en Ecuador.",
+          "after": "La publicación señala heterogeneidad y sesgo de publicación en los estudios incluidos, y recomienda investigaciones bien diseñadas, preferentemente multicéntricas."
+        },
+        "metadataNote": {
+          "before": null,
+          "after": "La ficha editorial fecha la publicación el 15 de junio de 2022 y asigna el volumen especial a 2022; el PDF conserva la indicación impresa «Año 2021». El año del catálogo corresponde a la ficha editorial. La revisión incluye estudios de 2015–2020."
+        }
+      },
+      "pending": [
+        "Discordancia de fecha entre PDF impreso (2021) y ficha editorial (2022) documentada; sin confirmación adicional de la revista"
+      ]
+    },
+    {
+      "id": "pdc-covid-gestantes-neonatos",
+      "editorialSources": [
+        {
+          "fields": [
+            "year"
+          ],
+          "url": "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0120-00112023000100009",
+          "location": "citation_publication_date / citation_date",
+          "value": "03/2023"
+        },
+        {
+          "fields": [
+            "title",
+            "authors",
+            "journal",
+            "volume",
+            "issue",
+            "doiIdentifier"
+          ],
+          "url": "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0120-00112023000100009",
+          "location": "editorial article and citation_* metadata"
+        },
+        {
+          "fields": [
+            "importancia"
+          ],
+          "url": "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0120-00112023000100009",
+          "location": "objetivo y resumen editorial; se retira un superlativo no respaldado"
+        }
+      ],
+      "response": {
+        "url": "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0120-00112023000100009",
+        "consultedOn": "2026-10-10",
+        "kind": "editorial HTML",
+        "status": 200,
+        "finalUrl": "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0120-00112023000100009",
+        "sha256": "29f93c411b559f5b4d658aacfba680b4bb3fbbfc4bcf68c6776fefdada4b4a4d"
+      },
+      "rawMetadata": {
+        "citation_journal_title": [
+          "Revista de la Facultad de Medicina"
+        ],
+        "citation_journal_title_abbrev": [
+          "rev.fac.med."
+        ],
+        "citation_publisher": [
+          "Universidad Nacional de Colombia"
+        ],
+        "citation_title": [
+          "COVID-19 en gestantes y neonatos: características clínicas y hallazgos de laboratorio e imagenológicos. Un resumen de revisiones sistemáticas"
+        ],
+        "citation_language": [
+          "es"
+        ],
+        "citation_date": [
+          "03/2023"
+        ],
+        "citation_volume": [
+          "71"
+        ],
+        "citation_issue": [
+          "1"
+        ],
+        "citation_issn": [
+          "0120-0011"
+        ],
+        "citation_doi": [
+          "10.15446/revfacmed.v71n1.97588"
+        ],
+        "citation_abstract_html_url": [
+          "http://www.scielo.org.co/scielo.php?script=sci_abstract&pid=S0120-00112023000100009&lng=en&nrm=iso&tlng=es"
+        ],
+        "citation_fulltext_html_url": [
+          "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0120-00112023000100009&lng=en&nrm=iso&tlng=es"
+        ],
+        "citation_author": [
+          "Toapanta-Pinta, Paola Cristina",
+          "Vasco-Toapanta, Cristhian Santiago",
+          "Herrera-Tasiguano, Alonso Ernesto",
+          "Verdesoto-Jácome, Catalina Angélica",
+          "Páez-Pastor, María José",
+          "Vasco-Morales, Santiago",
+          "Toapanta-Pinta, Paola Cristina",
+          "Vasco-Toapanta, Cristhian Santiago",
+          "Herrera-Tasiguano, Alonso Ernesto",
+          "Verdesoto-Jácome, Catalina Angélica",
+          "Páez-Pastor, María José",
+          "Vasco-Morales, Santiago"
+        ],
+        "citation_firstpage": [
+          ""
+        ],
+        "citation_lastpage": [
+          ""
+        ],
+        "citation_id": [
+          "10.15446/revfacmed.v71n1.97588"
+        ],
+        "citation_pdf_url": [
+          "http://www.scielo.org.co/pdf/rfmun/v71n1/0120-0011-rfmun-71-01-e9.pdf"
+        ]
+      },
+      "verifiedFields": {
+        "title": "COVID-19 en gestantes y neonatos: características clínicas y hallazgos de laboratorio e imagenológicos. Un resumen de revisiones sistemáticas",
+        "authors": "Paola Cristina Toapanta-Pinta, Cristhian Santiago Vasco-Toapanta, Alonso Ernesto Herrera-Tasiguano, Catalina Angélica Verdesoto-Jácome, María José Páez-Pastor, Santiago Vasco-Morales",
+        "journal": "Revista de la Facultad de Medicina",
+        "year": 2023,
+        "volume": "71",
+        "issue": "1",
+        "pages": null,
+        "articleNumber": "e97588",
+        "doiIdentifier": "10.15446/revfacmed.v71n1.97588",
+        "source": "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0120-00112023000100009",
+        "pdf": null
+      },
+      "changes": {
+        "year": {
+          "before": null,
+          "after": 2023
+        },
+        "volume": {
+          "before": null,
+          "after": "71"
+        },
+        "issue": {
+          "before": null,
+          "after": "1"
+        },
+        "doiIdentifier": {
+          "before": null,
+          "after": "10.15446/revfacmed.v71n1.97588"
+        },
+        "journal": {
+          "before": "Revista de la Facultad de Medicina (Colombia)",
+          "after": "Revista de la Facultad de Medicina"
+        },
+        "title": {
+          "before": "COVID-19 en gestantes y neonatos: características clínicas y hallazgos de laboratorio e imagenológicos",
+          "after": "COVID-19 en gestantes y neonatos: características clínicas y hallazgos de laboratorio e imagenológicos. Un resumen de revisiones sistemáticas"
+        },
+        "authors": {
+          "before": "Toapanta-Pinta P.C., Vasco-Toapanta C.S., Herrera-Tasiguano A.E., Verdesoto-Jácome C.A., Páez-Pastor M.J., Vasco-Morales S.",
+          "after": "Paola Cristina Toapanta-Pinta, Cristhian Santiago Vasco-Toapanta, Alonso Ernesto Herrera-Tasiguano, Catalina Angélica Verdesoto-Jácome, María José Páez-Pastor, Santiago Vasco-Morales"
+        },
+        "articleNumber": {
+          "before": null,
+          "after": "e97588"
+        },
+        "importancia": {
+          "before": "Proporcionó la síntesis más completa de evidencia para guiar decisiones clínicas durante la pandemia.",
+          "after": "Reúne evidencia de revisiones sistemáticas sobre las manifestaciones clínicas y los hallazgos de laboratorio e imagenológicos de COVID-19 en gestantes y neonatos."
+        }
+      },
+      "pending": []
+    },
+    {
+      "id": "pdc-anemia-indigena",
+      "editorialSources": [
+        {
+          "fields": [
+            "year"
+          ],
+          "url": "https://revpediatria.sld.cu/index.php/ped/article/view/8008",
+          "location": "citation_publication_date / citation_date",
+          "value": "2026/02/23"
+        },
+        {
+          "fields": [
+            "title",
+            "authors",
+            "journal",
+            "volume",
+            "issue",
+            "doiIdentifier"
+          ],
+          "url": "https://revpediatria.sld.cu/index.php/ped/article/view/8008",
+          "location": "editorial article and citation_* metadata"
+        }
+      ],
+      "response": {
+        "url": "https://revpediatria.sld.cu/index.php/ped/article/view/8008",
+        "consultedOn": "2026-10-10",
+        "kind": "editorial HTML",
+        "status": 200,
+        "finalUrl": "https://revpediatria.sld.cu/index.php/ped/article/view/8008",
+        "sha256": "438aa73367e4df4f8ffd40aa43481d1544222f380924f2d2826a30bd4845d49a"
+      },
+      "rawMetadata": {
+        "citation_journal_title": [
+          "Revista Cubana de Pediatría"
+        ],
+        "citation_journal_abbrev": [
+          "Rev Cubana Pediatría"
+        ],
+        "citation_issn": [
+          "1561-3119"
+        ],
+        "citation_author": [
+          "Luis Humberto Calle Campos",
+          "Paola Cristina Toapanta Pinta",
+          "Valeria Elizabeth Jerez Campoverde",
+          "Daniel Esteban Ortega Larrea",
+          "Antonio Andrés Cerón Caicedo",
+          "Santiago Vasco-Morales"
+        ],
+        "citation_title": [
+          "Anemia y estado nutricional infantil en comunidades indígenas  de altura: estudio transversal en Chimborazo, Ecuador"
+        ],
+        "citation_language": [
+          "es"
+        ],
+        "citation_date": [
+          "2026/02/23"
+        ],
+        "citation_volume": [
+          "98"
+        ],
+        "citation_abstract_html_url": [
+          "https://revpediatria.sld.cu/index.php/ped/article/view/8008"
+        ],
+        "citation_keywords": [
+          "anemia",
+          "embarazo en adolescencia",
+          "pueblos indígenas",
+          "estado nutricional",
+          "conducta alimentaria",
+          "determinantes sociales de la salud",
+          "Teorema de Bayes"
+        ],
+        "citation_pdf_url": [
+          "https://revpediatria.sld.cu/index.php/ped/article/download/8008/3352"
+        ]
+      },
+      "verifiedFields": {
+        "title": "Anemia y estado nutricional infantil en comunidades indígenas de altura: estudio transversal en Chimborazo, Ecuador",
+        "authors": "Luis Humberto Calle Campos, Paola Cristina Toapanta Pinta, Valeria Elizabeth Jerez Campoverde, Daniel Esteban Ortega Larrea, Antonio Andrés Cerón Caicedo, Santiago Vasco-Morales",
+        "journal": "Revista Cubana de Pediatría",
+        "year": 2026,
+        "volume": "98",
+        "issue": null,
+        "pages": null,
+        "articleNumber": null,
+        "doiIdentifier": null,
+        "source": "https://revpediatria.sld.cu/index.php/ped/article/view/8008",
+        "pdf": "https://revpediatria.sld.cu/index.php/ped/article/view/8008/3352"
+      },
+      "changes": {
+        "keywords": {
+          "before": null,
+          "after": [
+            "anemia",
+            "embarazo en adolescencia",
+            "pueblos indígenas",
+            "estado nutricional",
+            "conducta alimentaria",
+            "determinantes sociales de la salud",
+            "Teorema de Bayes"
+          ]
+        }
+      },
+      "pending": [
+        "DOI no localizado en la página editorial; no se presume su existencia"
+      ]
+    },
+    {
+      "id": "pdc-cesarea-multipara",
+      "editorialSources": [
+        {
+          "fields": [
+            "year",
+            "volume",
+            "articleNumber",
+            "doiIdentifier",
+            "title",
+            "authors"
+          ],
+          "url": "https://www.scielo.org.mx/pdf/gom/v94/0300-9041-gom-94-e11002.pdf",
+          "location": "PDF editorial, p. 1; datos ya verificados, se conservan"
+        }
+      ],
+      "response": {
+        "url": "https://ginecologiayobstetricia.org.mx/articulo/determinantes-clinicas-obstetricas-y-neonatales-de-la-cesarea-primaria-en-mujeres-multiparas",
+        "consultedOn": "2026-10-10",
+        "kind": "editorial HTML",
+        "status": 200,
+        "finalUrl": "https://ginecologiayobstetricia.org.mx/articulo/determinantes-clinicas-obstetricas-y-neonatales-de-la-cesarea-primaria-en-mujeres-multiparas",
+        "sha256": "daee9286e0ce6090cc9f586dbac11c031f140c5682c6f5abc330412793bf54c9"
+      },
+      "rawMetadata": {},
+      "verifiedFields": {
+        "title": "Determinantes clínicas, obstétricas y neonatales de la cesárea primaria en mujeres multíparas",
+        "authors": "Santiago Vasco Morales, Carmen Durán Verdesoto, María Fernanda Morales Carrasco, María Elena Borja Santin, Paola Toapanta Pinta",
+        "journal": "Ginecología y Obstetricia de México",
+        "year": 2026,
+        "volume": "94",
+        "issue": null,
+        "pages": null,
+        "articleNumber": "e11002",
+        "doiIdentifier": "10.24245/gom.v94id.11002",
+        "source": "https://ginecologiayobstetricia.org.mx/articulo/determinantes-clinicas-obstetricas-y-neonatales-de-la-cesarea-primaria-en-mujeres-multiparas",
+        "pdf": "https://www.scielo.org.mx/pdf/gom/v94/0300-9041-gom-94-e11002.pdf"
+      },
+      "changes": {},
+      "pending": []
+    },
+    {
+      "id": "pdc-lactancia-exclusiva",
+      "editorialSources": [
+        {
+          "fields": [
+            "year"
+          ],
+          "url": "https://www.scielo.br/j/reben/a/6ssmqbFmc99fM36vSqvdDJw/?lang=es",
+          "location": "citation_publication_date / citation_date",
+          "value": "2025"
+        },
+        {
+          "fields": [
+            "title",
+            "authors",
+            "journal",
+            "volume",
+            "issue",
+            "doiIdentifier"
+          ],
+          "url": "https://www.scielo.br/j/reben/a/6ssmqbFmc99fM36vSqvdDJw/?lang=es",
+          "location": "editorial article and citation_* metadata"
+        },
+        {
+          "fields": [
+            "issue",
+            "year",
+            "doiIdentifier",
+            "authors"
+          ],
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12707856/",
+          "location": "versión editorial depositada, cabecera y firmas"
+        }
+      ],
+      "response": {
+        "url": "https://www.scielo.br/j/reben/a/6ssmqbFmc99fM36vSqvdDJw/?lang=es",
+        "consultedOn": "2026-10-10",
+        "kind": "editorial HTML",
+        "status": 200,
+        "finalUrl": "https://www.scielo.br/j/reben/a/6ssmqbFmc99fM36vSqvdDJw/?lang=es",
+        "sha256": "a38204007b0caf0661de0c044aa8a7a11f786d62a25e706823d48a9e017032c3"
+      },
+      "rawMetadata": {
+        "citation_author": [
+          "Toapanta-Pinta, Paola Cristina",
+          "Cóndor, Adriana Paola Sinchiguano",
+          "Defaz, Deicy Maribel Muso",
+          "Landeta, Angélica Oliva Gualavisí",
+          "Cadena, Blanca Llilman Parra",
+          "Vasco-Morales, Santiago"
+        ],
+        "citation_author_orcid": [
+          "http://orcid.org/0000-0003-2804-2504",
+          "http://orcid.org/0009-0004-0920-9203",
+          "http://orcid.org/0009-0009-9012-6419",
+          "http://orcid.org/0009-0009-7612-4927",
+          "http://orcid.org/0009-0005-9750-8752",
+          "http://orcid.org/0000-0002-1370-9700"
+        ],
+        "citation_journal_title": [
+          "Revista Brasileira de Enfermagem"
+        ],
+        "citation_journal_abbrev": [
+          "Rev. Bras. Enferm.",
+          "Rev. Bras. Enferm"
+        ],
+        "citation_publisher": [
+          "Associação Brasileira de Enfermagem"
+        ],
+        "citation_volume": [
+          "78"
+        ],
+        "citation_pdf_url": [
+          "https://www.scielo.br/j/reben/a/6ssmqbFmc99fM36vSqvdDJw/?lang=es&format=pdf"
+        ],
+        "citation_xml_url": [
+          "https://www.scielo.br/j/reben/a/6ssmqbFmc99fM36vSqvdDJw/?format=xml&lang=en"
+        ],
+        "citation_firstpage": [
+          "e20250196"
+        ],
+        "citation_doi": [
+          "10.1590/0034-7167-2025-0196"
+        ],
+        "citation_fulltext_world_readable": [
+          ""
+        ],
+        "citation_issn": [
+          "0034-7167",
+          "1984-0446"
+        ],
+        "citation_title": [
+          "Factores maternos y neonatales asociados a la lactancia materna exclusiva al egreso hospitalario"
+        ],
+        "citation_language": [
+          "es"
+        ],
+        "citation_article_type": [
+          "research-article"
+        ],
+        "citation_publication_date": [
+          "2025"
+        ],
+        "citation_keywords": [
+          "Lactancia Materna",
+          "Factores de Riesgo",
+          "Recién Nacido",
+          "Conducta Materna",
+          "Salud Materno-Infantil."
+        ]
+      },
+      "verifiedFields": {
+        "title": "Factores maternos y neonatales asociados a la lactancia materna exclusiva al egreso hospitalario",
+        "authors": "Paola Cristina Toapanta-Pinta, Adriana Paola Sinchiguano Cóndor, Deicy Maribel Muso Defaz, Angélica Oliva Gualavisí Landeta, Blanca Llilman Parra Cadena, Santiago Vasco-Morales",
+        "journal": "Revista Brasileira de Enfermagem",
+        "year": 2025,
+        "volume": "78",
+        "issue": "Supl. 4",
+        "pages": null,
+        "articleNumber": "e20250196",
+        "doiIdentifier": "10.1590/0034-7167-2025-0196",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12707856/",
+        "pdf": null
+      },
+      "changes": {
+        "year": {
+          "before": null,
+          "after": 2025
+        },
+        "volume": {
+          "before": null,
+          "after": "78"
+        },
+        "doiIdentifier": {
+          "before": null,
+          "after": "10.1590/0034-7167-2025-0196"
+        },
+        "keywords": {
+          "before": null,
+          "after": [
+            "Lactancia Materna",
+            "Factores de Riesgo",
+            "Recién Nacido",
+            "Conducta Materna",
+            "Salud Materno-Infantil."
+          ]
+        },
+        "articleNumber": {
+          "before": null,
+          "after": "e20250196"
+        },
+        "issue": {
+          "before": null,
+          "after": "Supl. 4"
+        }
+      },
+      "pending": []
+    },
+    {
+      "id": "pdc-gastrosquisis",
+      "editorialSources": [
+        {
+          "fields": [
+            "year"
+          ],
+          "url": "https://andespediatrica.cl/index.php/rchped/article/view/5517",
+          "location": "citation_publication_date / citation_date",
+          "value": "2025/07/11"
+        },
+        {
+          "fields": [
+            "title",
+            "authors",
+            "journal",
+            "volume",
+            "issue",
+            "doiIdentifier"
+          ],
+          "url": "https://andespediatrica.cl/index.php/rchped/article/view/5517",
+          "location": "editorial article and citation_* metadata"
+        }
+      ],
+      "response": {
+        "url": "https://andespediatrica.cl/index.php/rchped/article/view/5517",
+        "consultedOn": "2026-10-10",
+        "kind": "editorial HTML",
+        "error": "HTTP Error 403: Forbidden",
+        "previousSnapshot": true,
+        "sha256": "310444a17c8de9a1caba576c61ca056b6b6859e3e15219f0055f07fbf6c8084e"
+      },
+      "rawMetadata": {
+        "citation_journal_title": [
+          "Andes Pediatrica"
+        ],
+        "citation_journal_abbrev": [
+          "Andes pediatr"
+        ],
+        "citation_issn": [
+          "2452-6053"
+        ],
+        "citation_author": [
+          "Santiago Vasco-Morales",
+          "Christian Vega-Reyes",
+          "Antonio Cerón-Caicedo",
+          "Nicole Orozco-Sánchez",
+          "Cristhian Vasco-Toapanta",
+          "Paola Cristina Toapanta-Pinta"
+        ],
+        "citation_title": [
+          "Prevalencia y factores de mortalidad en la hospitalización inicial por gastrosquisis"
+        ],
+        "citation_language": [
+          "es"
+        ],
+        "citation_date": [
+          "2025/07/11"
+        ],
+        "citation_volume": [
+          "96"
+        ],
+        "citation_issue": [
+          "4"
+        ],
+        "citation_firstpage": [
+          "503"
+        ],
+        "citation_lastpage": [
+          "514"
+        ],
+        "citation_doi": [
+          "10.32641/andespediatr.v96i4.5517"
+        ],
+        "citation_abstract_html_url": [
+          "https://andespediatrica.cl/index.php/rchped/article/view/5517"
+        ],
+        "citation_keywords": [
+          "gastrosquisis",
+          "mortalidad",
+          "anomalías congénitas",
+          "prevalencia",
+          "recién nacido",
+          "Teorema de Bayes"
+        ],
+        "citation_pdf_url": [
+          "https://andespediatrica.cl/index.php/rchped/article/download/5517/5396",
+          "https://andespediatrica.cl/index.php/rchped/article/download/5517/5433",
+          "https://andespediatrica.cl/index.php/rchped/article/download/5517/5434",
+          "https://andespediatrica.cl/index.php/rchped/article/download/5517/5435"
+        ]
+      },
+      "verifiedFields": {
+        "title": "Prevalencia y factores de mortalidad en la hospitalización inicial por gastrosquisis",
+        "authors": "Santiago Vasco-Morales, Christian Vega-Reyes, Antonio Cerón-Caicedo, Nicole Orozco-Sánchez, Cristhian Vasco-Toapanta, Paola Cristina Toapanta-Pinta",
+        "journal": "Andes Pediatrica",
+        "year": 2025,
+        "volume": "96",
+        "issue": "4",
+        "pages": "503–514",
+        "articleNumber": null,
+        "doiIdentifier": "10.32641/andespediatr.v96i4.5517",
+        "source": "https://doi.org/10.32641/andespediatr.v96i4.5517",
+        "pdf": null
+      },
+      "changes": {
+        "year": {
+          "before": null,
+          "after": 2025
+        },
+        "volume": {
+          "before": null,
+          "after": "96"
+        },
+        "issue": {
+          "before": null,
+          "after": "4"
+        },
+        "keywords": {
+          "before": null,
+          "after": [
+            "gastrosquisis",
+            "mortalidad",
+            "anomalías congénitas",
+            "prevalencia",
+            "recién nacido",
+            "Teorema de Bayes"
+          ]
+        },
+        "pages": {
+          "before": null,
+          "after": "503–514"
+        }
+      },
+      "pending": [
+        "Reacceso a la editorial bloqueado con 403; se usó snapshot editorial previo de esta sesión"
+      ]
+    },
+    {
+      "id": "pdc-dermatitis-neurologica",
+      "editorialSources": [
+        {
+          "fields": [
+            "year"
+          ],
+          "url": "https://revistas.usp.br/rmrp/es/article/view/230186",
+          "location": "citation_publication_date / citation_date",
+          "value": "2025/12/31"
+        },
+        {
+          "fields": [
+            "title",
+            "authors",
+            "journal",
+            "volume",
+            "issue",
+            "doiIdentifier"
+          ],
+          "url": "https://revistas.usp.br/rmrp/es/article/view/230186",
+          "location": "editorial article and citation_* metadata"
+        },
+        {
+          "fields": [
+            "articleNumber"
+          ],
+          "url": "https://revistas.usp.br/rmrp/es/article/view/230186",
+          "location": "Cómo citar: 58(3):e-230186"
+        }
+      ],
+      "response": {
+        "url": "https://revistas.usp.br/rmrp/es/article/view/230186",
+        "consultedOn": "2026-10-10",
+        "kind": "editorial HTML",
+        "status": 200,
+        "finalUrl": "https://revistas.usp.br/rmrp/es/article/view/230186",
+        "sha256": "526b94d90b043d52b0849ae114b929b0d5e99eac1cf6f4966003599ffc41c9fa"
+      },
+      "rawMetadata": {
+        "citation_journal_title": [
+          "Medicina (Ribeirão Preto)"
+        ],
+        "citation_journal_abbrev": [
+          "Medicina (Ribeirão Preto)"
+        ],
+        "citation_issn": [
+          "2176-7262"
+        ],
+        "citation_author": [
+          "Santiago Vasco-Morales",
+          "Edson Zangiacomi Martinez",
+          "Paola Cristina Toapanta-Pinta",
+          "Walusa Assad",
+          "Davi Aragon",
+          "Renata Gomes de Oliveira",
+          "Pérsio Roxo-Junior"
+        ],
+        "citation_title": [
+          "Neurological disorders in infants may represent a potential risk factor for the development of atopic dermatitis"
+        ],
+        "citation_language": [
+          "en"
+        ],
+        "citation_date": [
+          "2025/12/31"
+        ],
+        "citation_volume": [
+          "58"
+        ],
+        "citation_issue": [
+          "3"
+        ],
+        "citation_lastpage": [
+          "230186"
+        ],
+        "citation_doi": [
+          "10.11606/issn.2176-7262.rmrp.2025.230186"
+        ],
+        "citation_abstract_html_url": [
+          "https://revistas.usp.br/rmrp/article/view/230186"
+        ],
+        "citation_keywords": [
+          "Dermatite atópica",
+          "Imunoglobulina E",
+          "Desordens neurológicas",
+          "Neuroimunomodulação",
+          "Lactentes"
+        ],
+        "citation_pdf_url": [
+          "https://revistas.usp.br/rmrp/article/download/230186/220865"
+        ]
+      },
+      "verifiedFields": {
+        "title": "Neurological disorders in infants may represent a potential risk factor for the development of atopic dermatitis",
+        "authors": "Santiago Vasco-Morales, Edson Zangiacomi Martinez, Paola Cristina Toapanta-Pinta, Walusa Assad, Davi Aragon, Renata Gomes de Oliveira, Pérsio Roxo-Junior",
+        "journal": "Medicina (Ribeirão Preto)",
+        "year": 2025,
+        "volume": "58",
+        "issue": "3",
+        "pages": null,
+        "articleNumber": "e-230186",
+        "doiIdentifier": "10.11606/issn.2176-7262.rmrp.2025.230186",
+        "source": "https://revistas.usp.br/rmrp/es/article/view/230186",
+        "pdf": null
+      },
+      "changes": {
+        "year": {
+          "before": null,
+          "after": 2025
+        },
+        "volume": {
+          "before": null,
+          "after": "58"
+        },
+        "issue": {
+          "before": null,
+          "after": "3"
+        },
+        "doiIdentifier": {
+          "before": null,
+          "after": "10.11606/issn.2176-7262.rmrp.2025.230186"
+        },
+        "keywords": {
+          "before": null,
+          "after": [
+            "Dermatite atópica",
+            "Imunoglobulina E",
+            "Desordens neurológicas",
+            "Neuroimunomodulação",
+            "Lactentes"
+          ]
+        },
+        "journal": {
+          "before": "Revista de Medicina de Ribeirão Preto",
+          "after": "Medicina (Ribeirão Preto)"
+        },
+        "authors": {
+          "before": "Santiago Vasco-Morales, Edson Zangiacomi Martinez, Paola Cristina Toapanta-Pinta, Walusa Assad, Davi Aragon, Renata Gomes de Oliveira, Persio Roxo-Junior",
+          "after": "Santiago Vasco-Morales, Edson Zangiacomi Martinez, Paola Cristina Toapanta-Pinta, Walusa Assad, Davi Aragon, Renata Gomes de Oliveira, Pérsio Roxo-Junior"
+        },
+        "articleNumber": {
+          "before": null,
+          "after": "e-230186"
+        }
+      },
+      "pending": []
+    },
+    {
+      "id": "pdc-anomalias-congenitas",
+      "editorialSources": [
+        {
+          "fields": [
+            "year"
+          ],
+          "url": "https://doi.org/10.15446/revfacmed.v72n4.113715",
+          "location": "citation_publication_date / citation_date",
+          "value": "2024/11/30"
+        },
+        {
+          "fields": [
+            "title",
+            "authors",
+            "journal",
+            "volume",
+            "issue",
+            "doiIdentifier"
+          ],
+          "url": "https://doi.org/10.15446/revfacmed.v72n4.113715",
+          "location": "editorial article and citation_* metadata"
+        }
+      ],
+      "response": {
+        "url": "https://doi.org/10.15446/revfacmed.v72n4.113715",
+        "consultedOn": "2026-10-10",
+        "kind": "editorial HTML",
+        "status": 200,
+        "finalUrl": "https://revistas.unal.edu.co/index.php/revfacmed/article/view/113715",
+        "sha256": "9e0e755041f0eaaaef7d7f765220d211f6cac69ad87f24773fa4e6e8082c950c"
+      },
+      "rawMetadata": {
+        "citation_journal_title": [
+          "Revista de la Facultad de Medicina"
+        ],
+        "citation_journal_abbrev": [
+          "Rev. Fac. Med."
+        ],
+        "citation_issn": [
+          "2357-3848"
+        ],
+        "citation_author": [
+          "Paola Cristina Toapanta-Pinta",
+          "Cristhian Santiago Vasco-Toapanta",
+          "Kevin Sidel-Almache",
+          "Analy Alejandra Salinas-Salinas",
+          "Santiago Vasco-Morales"
+        ],
+        "citation_title": [
+          "Prevalence of congenital anomalies and factors associated with their development at a national referral hospital in Quito, Ecuador"
+        ],
+        "citation_language": [
+          "en"
+        ],
+        "citation_date": [
+          "2024/11/30"
+        ],
+        "citation_volume": [
+          "72"
+        ],
+        "citation_issue": [
+          "4"
+        ],
+        "citation_firstpage": [
+          "e113715"
+        ],
+        "citation_lastpage": [
+          "e113715"
+        ],
+        "citation_doi": [
+          "10.15446/revfacmed.v72n4.113715"
+        ],
+        "citation_abstract_html_url": [
+          "https://revistas.unal.edu.co/index.php/revfacmed/article/view/113715"
+        ],
+        "citation_keywords": [
+          "Anomalías congénitas",
+          "Factores de riesgo",
+          "Recién nacido",
+          "Perinatología",
+          "Salud reproductiva"
+        ],
+        "citation_pdf_url": [
+          "https://revistas.unal.edu.co/index.php/revfacmed/article/download/113715/93882"
+        ],
+        "citation_fulltext_html_url": [
+          "https://revistas.unal.edu.co/index.php/revfacmed/article/view/113715/93988"
+        ]
+      },
+      "verifiedFields": {
+        "title": "Prevalence of congenital anomalies and factors associated with their development at a national referral hospital in Quito, Ecuador",
+        "authors": "Paola Cristina Toapanta-Pinta, Cristhian Santiago Vasco-Toapanta, Kevin Sidel-Almache, Analy Alejandra Salinas-Salinas, Santiago Vasco-Morales",
+        "journal": "Revista de la Facultad de Medicina",
+        "year": 2024,
+        "volume": "72",
+        "issue": "4",
+        "pages": null,
+        "articleNumber": "e113715",
+        "doiIdentifier": "10.15446/revfacmed.v72n4.113715",
+        "source": "https://doi.org/10.15446/revfacmed.v72n4.113715",
+        "pdf": null
+      },
+      "changes": {
+        "year": {
+          "before": null,
+          "after": 2024
+        },
+        "volume": {
+          "before": null,
+          "after": "72"
+        },
+        "issue": {
+          "before": null,
+          "after": "4"
+        },
+        "keywords": {
+          "before": null,
+          "after": [
+            "Anomalías congénitas",
+            "Factores de riesgo",
+            "Recién nacido",
+            "Perinatología",
+            "Salud reproductiva"
+          ]
+        },
+        "journal": {
+          "before": "Revista de la Facultad de Medicina (Colombia)",
+          "after": "Revista de la Facultad de Medicina"
+        },
+        "articleNumber": {
+          "before": null,
+          "after": "e113715"
+        }
+      },
+      "pending": []
+    },
+    {
+      "id": "pdc-violencia-gestacional",
+      "editorialSources": [
+        {
+          "fields": [
+            "year"
+          ],
+          "url": "https://www.frontiersin.org/journals/global-womens-health/articles/10.3389/fgwh.2026.1920014/full",
+          "location": "citation_publication_date / citation_date",
+          "value": "2026/08/26"
+        },
+        {
+          "fields": [
+            "title",
+            "authors",
+            "journal",
+            "volume",
+            "issue",
+            "doiIdentifier"
+          ],
+          "url": "https://www.frontiersin.org/journals/global-womens-health/articles/10.3389/fgwh.2026.1920014/full",
+          "location": "editorial article and citation_* metadata"
+        }
+      ],
+      "response": {
+        "url": "https://www.frontiersin.org/journals/global-womens-health/articles/10.3389/fgwh.2026.1920014/full",
+        "consultedOn": "2026-10-10",
+        "kind": "editorial HTML",
+        "status": 200,
+        "finalUrl": "https://www.frontiersin.org/journals/global-womens-health/articles/10.3389/fgwh.2026.1920014/full",
+        "sha256": "b4c7406fbd46395b587fe75ffd5b9a8ba66402e157a9403591ca219a44d150fc"
+      },
+      "rawMetadata": {
+        "citation_volume": [
+          "7"
+        ],
+        "citation_journal_title": [
+          "Frontiers in Global Women's Health"
+        ],
+        "citation_publisher": [
+          "Frontiers"
+        ],
+        "citation_journal_abbrev": [
+          "Front. Glob. Women’s Health"
+        ],
+        "citation_issn": [
+          "2673-5059"
+        ],
+        "citation_doi": [
+          "10.3389/fgwh.2026.1920014"
+        ],
+        "citation_firstpage": [
+          "1920014"
+        ],
+        "citation_language": [
+          "English"
+        ],
+        "citation_title": [
+          "Recorded gestational violence and neonatal outcomes in a cohort of deliveries requiring neonatal hospitalization: a 15-year hospital-based perinatal registry study"
+        ],
+        "citation_keywords": [
+          "violence against women; information systems; premature birth; Bayes theorem; substance & alcohol use; administrative systems; logistic models for missing indicators; underreported"
+        ],
+        "citation_article_type": [
+          "Brief Research Report"
+        ],
+        "citation_pdf_url": [
+          "https://www.frontiersin.org/journals/global-womens-health/articles/10.3389/fgwh.2026.1920014/pdf"
+        ],
+        "citation_xml_url": [
+          "https://www.frontiersin.org/journals/global-womens-health/articles/10.3389/fgwh.2026.1920014/xml"
+        ],
+        "citation_fulltext_world_readable": [
+          "yes"
+        ],
+        "citation_online_date": [
+          "2026/08/14"
+        ],
+        "citation_publication_date": [
+          "2026/08/26"
+        ],
+        "citation_author": [
+          "Vasco-Morales, Santiago",
+          "Rosero-Quintana, Mercy",
+          "Amaguaya-Guala, Alexandra",
+          "Tamayo-Saenz, Emily",
+          "Toapanta-Pinta, Paola"
+        ]
+      },
+      "verifiedFields": {
+        "title": "Recorded gestational violence and neonatal outcomes in a cohort of deliveries requiring neonatal hospitalization: a 15-year hospital-based perinatal registry study",
+        "authors": "Santiago Vasco-Morales, Mercy Rosero-Quintana, Alexandra Amaguaya-Guala, Emily Tamayo-Saenz, Paola Toapanta-Pinta",
+        "journal": "Frontiers in Global Women's Health",
+        "year": 2026,
+        "volume": "7",
+        "issue": null,
+        "pages": null,
+        "articleNumber": "1920014",
+        "doiIdentifier": "10.3389/fgwh.2026.1920014",
+        "source": "https://www.frontiersin.org/journals/global-womens-health/articles/10.3389/fgwh.2026.1920014/full",
+        "pdf": "https://www.frontiersin.org/journals/global-womens-health/articles/10.3389/fgwh.2026.1920014/pdf"
+      },
+      "changes": {
+        "keywords": {
+          "before": [
+            "violencia gestacional",
+            "epidemiología",
+            "salud neonatal"
+          ],
+          "after": [
+            "violence against women; information systems; premature birth; Bayes theorem; substance & alcohol use; administrative systems; logistic models for missing indicators; underreported"
+          ]
+        },
+        "articleNumber": {
+          "before": null,
+          "after": "1920014"
+        }
+      },
+      "pending": []
+    },
+    {
+      "id": "pdc-experiencia-tutores",
+      "editorialSources": [
+        {
+          "fields": [
+            "year"
+          ],
+          "url": "https://revistas.utb.edu.ec/index.php/magazine/article/view/4308",
+          "location": "citation_publication_date / citation_date",
+          "value": "2026/01/04"
+        },
+        {
+          "fields": [
+            "title",
+            "authors",
+            "journal",
+            "volume",
+            "issue",
+            "doiIdentifier"
+          ],
+          "url": "https://revistas.utb.edu.ec/index.php/magazine/article/view/4308",
+          "location": "editorial article and citation_* metadata"
+        }
+      ],
+      "response": {
+        "url": "https://revistas.utb.edu.ec/index.php/magazine/article/view/4308",
+        "consultedOn": "2026-10-10",
+        "kind": "editorial HTML",
+        "status": 200,
+        "finalUrl": "https://revistas.utb.edu.ec/index.php/magazine/article/view/4308",
+        "sha256": "358b9e5568b4d45a2997d0560dfe50a315e7fb3eb7095aa1889c6e0ad8f27ec5"
+      },
+      "rawMetadata": {
+        "citation_journal_title": [
+          "Magazine de las Ciencias: Revista de Investigación e Innovación"
+        ],
+        "citation_journal_abbrev": [
+          "RMC"
+        ],
+        "citation_issn": [
+          "2528-8091"
+        ],
+        "citation_author": [
+          "Paola Toapanta Pinta",
+          "Gabriel Vasco Toapanta",
+          "Kevin Sidel Almache",
+          "Santiago Vasco Morales"
+        ],
+        "citation_title": [
+          "Impacto de la experiencia de los tutores en la satisfacción estudiantil durante proyectos integradores de saberes"
+        ],
+        "citation_language": [
+          "es"
+        ],
+        "citation_date": [
+          "2026/01/04"
+        ],
+        "citation_volume": [
+          "11"
+        ],
+        "citation_issue": [
+          "1"
+        ],
+        "citation_firstpage": [
+          "92"
+        ],
+        "citation_lastpage": [
+          "106"
+        ],
+        "citation_abstract_html_url": [
+          "https://revistas.utb.edu.ec/index.php/magazine/article/view/4308"
+        ],
+        "citation_keywords": [
+          "Educación Médica, Evaluación docente, Teorema de Bayes, Evaluación Educacional, Educación Basada en Competencias"
+        ],
+        "citation_pdf_url": [
+          "https://revistas.utb.edu.ec/index.php/magazine/article/download/4308/3948"
+        ]
+      },
+      "verifiedFields": {
+        "title": "Impacto de la experiencia de los tutores en la satisfacción estudiantil durante proyectos integradores de saberes",
+        "authors": "Paola Toapanta Pinta, Gabriel Vasco Toapanta, Kevin Sidel Almache, Santiago Vasco Morales",
+        "journal": "Magazine de las Ciencias: Revista de Investigación e Innovación",
+        "year": 2026,
+        "volume": "11",
+        "issue": "1",
+        "pages": "92–106",
+        "articleNumber": null,
+        "doiIdentifier": null,
+        "source": "https://revistas.utb.edu.ec/index.php/magazine/article/view/4308",
+        "pdf": "https://revistas.utb.edu.ec/index.php/magazine/article/view/4308/3948"
+      },
+      "changes": {
+        "keywords": {
+          "before": [
+            "evaluación docente",
+            "Teorema de Bayes",
+            "educación basada en competencias"
+          ],
+          "after": [
+            "Educación Médica, Evaluación docente, Teorema de Bayes, Evaluación Educacional, Educación Basada en Competencias"
+          ]
+        }
+      },
+      "pending": [
+        "DOI no localizado en la página editorial; no se presume su existencia"
+      ]
+    }
+  ]
+}
